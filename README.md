@@ -1,4 +1,4 @@
-# Webpack Boilerplate React, GraphQL, Server Side Rendering, CSS in JS
+# [Work in Progress] Webpack Boilerplate React, GraphQL, Server Side Rendering, CSS in JS
 
 ## Instalação
 
